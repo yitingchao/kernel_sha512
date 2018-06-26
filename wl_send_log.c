@@ -1,0 +1,1 @@
+../../Universal-Application-Whitelisting/check_module/Linux/lib/wl_send_log.c
